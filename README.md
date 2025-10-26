@@ -54,7 +54,7 @@ After deployment:
 | Step | Screenshot |
 |------|-------------|
 | VM Creation | ![VM Setup](./screenshots/vm-creation.png) |
-| Review + Create | ![Review + Create](./screenshots/review-create.png) |
+| Review + Create | ![Review + Create](./screenshots/vm-review-create.png) |
 | Running VM Overview | ![VM Overview](./screenshots/vm-overview.png) |
 
 ---
